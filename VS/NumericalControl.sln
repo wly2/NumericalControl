@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericalControl.Plugins", "NumericalControl.Plugins.csproj", "{49612E52-32B2-12B7-1F99-501F343C6E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericalControl", "NumericalControl.csproj", "{64F56FAB-07D8-0726-CB51-E29893FCA1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericalControl.Editor.Plugins", "NumericalControl.Editor.Plugins.csproj", "{49A3BB72-DA1F-580F-B2B5-80107955DFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49612E52-32B2-12B7-1F99-501F343C6E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49612E52-32B2-12B7-1F99-501F343C6E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49612E52-32B2-12B7-1F99-501F343C6E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49612E52-32B2-12B7-1F99-501F343C6E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F56FAB-07D8-0726-CB51-E29893FCA1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F56FAB-07D8-0726-CB51-E29893FCA1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F56FAB-07D8-0726-CB51-E29893FCA1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F56FAB-07D8-0726-CB51-E29893FCA1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A3BB72-DA1F-580F-B2B5-80107955DFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A3BB72-DA1F-580F-B2B5-80107955DFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A3BB72-DA1F-580F-B2B5-80107955DFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A3BB72-DA1F-580F-B2B5-80107955DFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
